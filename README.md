@@ -14,7 +14,7 @@ Usage
 4. Exit the program when finished.
 
 Example
-Type node index.js to start the program. Follow the prompts to perform various tasks such as viewing, adding, updating, or deleting departments, roles, and employees.
+Type node server to start the program. Follow the prompts to perform various tasks such as viewing, adding, updating, or deleting departments, roles, and employees.
 
 Testing
 To run tests, execute npm test in the terminal. This will run the test cases to ensure the functionality of the application.
