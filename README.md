@@ -8,7 +8,7 @@ Installation
 3. Install dependencies by running npm install.
 
 Usage
-1. Run the program by executing node index.js.
+1. Run the program by executing node server or node index.js.
 2. Follow the prompts to select from the available options.
 3. Depending on the selected action, provide the required information as prompted.
 4. Exit the program when finished.
