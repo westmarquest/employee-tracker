@@ -16,9 +16,6 @@ Usage
 Example
 Type node server to start the program. Follow the prompts to perform various tasks such as viewing, adding, updating, or deleting departments, roles, and employees.
 
-Testing
-To run tests, execute npm test in the terminal. This will run the test cases to ensure the functionality of the application.
-
 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on GitHub.
 
